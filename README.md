@@ -13,7 +13,7 @@ C# • Python • JavaScript • React • React Native • ASP.NET Core • AWS
 
 ## 📌 Projects
 
-- **E-Commerce Platform** – Serverless app using AWS Lambda, DynamoDB  
+- **E-Commerce Platform** – Serverless app using AWS Lambda, DynamoDB, API Gateway, Cognito, S3, and SNS
 - **Tourist Guide App** – Gemini AI-based mobile app (React Native)  
 - **Bookstore Web App** – Full-stack app with ASP.NET Core and SQL Server  
 
