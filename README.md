@@ -27,8 +27,10 @@ ASP.NET Core • AWS • SQL • DynamoDB • Lambda
 
 ## 🖼️ Project Screenshots
 
-![Homepage Screenshot 1](./screenshots/homepage1.png)  
-![Homepage Screenshot 2](./screenshots/homepage2.png)
+<p align="center">
+  <img src="./screenshots/homepage1.png" alt="Homepage 1" width="45%" />
+  <img src="./screenshots/homepage2.png" alt="Homepage 2" width="45%" />
+</p>
 
 ---
 
