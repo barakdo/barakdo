@@ -27,8 +27,8 @@ ASP.NET Core • AWS • SQL • DynamoDB • Lambda
 
 ## 🖼️ Project Screenshots
 
-![Homepage Screenshot 1](./screenshots/hompage1.png)  
-![Homepage Screenshot 2](./screenshots/hompage2.png)
+![Homepage Screenshot 1](./screenshots/homepage1.png)  
+![Homepage Screenshot 2](./screenshots/homepage2.png)
 
 ---
 
