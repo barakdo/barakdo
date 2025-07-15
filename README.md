@@ -14,13 +14,13 @@ ASP.NET Core • AWS • SQL • DynamoDB • Lambda
 
 ## 🚀 Featured Projects
 
-- **E-Commerce Platform**  
+- [**E-Commerce Platform**](https://github.com/barakdo/aws-serverless-ecommerce-platform)
   Serverless app using AWS Lambda, DynamoDB, API Gateway, Cognito, S3, and SNS
 
-- **AI Tourist Guide App**  
+- **AI Tourist Guide App**
   Mobile app using Gemini AI for personalized tour content (React Native)
 
-- **Online Bookstore**  
+- [**Online Bookstore**](https://github.com/barakdo/online-bookstore-web-app)
   Full-stack web app with ASP.NET Core and SQL Server backend
 
 ---
