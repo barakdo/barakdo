@@ -26,12 +26,15 @@ ASP.NET Core • AWS • SQL • DynamoDB • Lambda
 ---
 
 ## 🖼️ Project Screenshots
+<div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 0 5%;">
+  <img src="./screenshots/homepage3.png" style="height: 300px;" />
+  <img src="./screenshots/homepage2.png" style="height: 300px;" />
+</div>
 
-<p align="center">
-  <img src="./screenshots/homepage1.png" alt="Homepage 1" width="45%" />
-  <img src="./screenshots/homepage2.png" alt="Homepage 2" width="45%" />
-  <img src="./screenshots/homepage3.png" alt="Homepage 3" width="45%" />
-</p>
+<div style="text-align: center; margin-top: 32px;">
+  <img src="./screenshots/homepage1.png" style="height: 304px;" />
+</div>
+
 
 ---
 
