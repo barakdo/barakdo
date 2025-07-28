@@ -17,7 +17,7 @@ ASP.NET Core • AWS • SQL • DynamoDB • Lambda
 - [**E-Commerce Platform**](https://github.com/barakdo/aws-serverless-ecommerce-platform)
   Serverless app using AWS Lambda, DynamoDB, API Gateway, Cognito, S3, and SNS
 
-- **AI Tourist Guide App**
+- [**AI Tourist Guide App**](https://github.com/barakdo/react-native-tour-planner)
   Mobile app using Gemini AI for personalized tour content (React Native)
 
 - [**Online Bookstore**](https://github.com/barakdo/online-bookstore-web-app)
@@ -30,6 +30,7 @@ ASP.NET Core • AWS • SQL • DynamoDB • Lambda
 <p align="center">
   <img src="./screenshots/homepage1.png" alt="Homepage 1" width="45%" />
   <img src="./screenshots/homepage2.png" alt="Homepage 2" width="45%" />
+  <img src="./screenshots/homepage3.png" alt="Homepage 3" width="45%" />
 </p>
 
 ---
